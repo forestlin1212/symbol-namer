@@ -11,7 +11,7 @@
     }
   ],
   "menu": {
-    "title": "Symbol Namer",
+    "title": "Symbol Renamer",
     "items": [
       "rename-symbols"
     ]
